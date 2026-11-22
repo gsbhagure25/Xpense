@@ -20,7 +20,7 @@ Xpense is an intelligent, AI-driven finance tracker designed to simplify your pe
 ##  Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Vanshiitp/Xpense.git
+   git clone https://github.com/gsbhagure25/Xpense.git
    cd Xpense
    ```
 
